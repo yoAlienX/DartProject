@@ -23,6 +23,7 @@ class Salary {
 }
 
 class Employee extends Salary {
+
   String name = "Suni Mon";
   int age = 45;
   void printDetails() {
