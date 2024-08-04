@@ -1,13 +1,15 @@
 // import 'dart:io';
 
- void main() {
-//   print("Enter the number for multiplication table: ");
-//   int n = int.parse(stdin.readLineSync()!);
-//
-//   print("Multiplication table for $n: \n");
-//   for(int i = 1; i<=10; i++) {
-//     print("$i * $n = ${i*n}");
-//   }
+ import 'dart:io';
+
+void main() {
+  // print("Enter the number for multiplication table: ");
+  // int n = int.parse(stdin.readLineSync()!);
+  //
+  // print("Multiplication table for $n: \n");
+  // for(int i = 1; i<=10; i++) {
+  //   print("$i * $n = ${i*n}");
+  // }
 
   print("Multiplication table from 1 to 20 in order: ");
   for (int i=1; i<=20; i++) {
